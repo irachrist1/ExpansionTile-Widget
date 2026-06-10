@@ -1,16 +1,25 @@
-# expansion_tile
+# ExpansionTile-Widget
 
-A new Flutter project.
+Flutter widget learning exercise — default project scaffold for exploring expansion tiles.
 
-## Getting Started
+## The problem
 
-This project is a starting point for a Flutter application.
+You're learning Flutter widgets. You need a sandbox repo, not a production app.
 
-A few resources to get you started if this is your first Flutter project:
+## What it does
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Stock `flutter create` template structure for experimenting with ExpansionTile and related layout patterns.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Install
+
+```bash
+git clone https://github.com/irachrist1/ExpansionTile-Widget.git && cd ExpansionTile-Widget
+flutter pub get && flutter run
+```
+
+## How it works
+
+- **Flutter boilerplate.** Standard counter-app scaffold — replace with your widget experiments.
+- **Learning sandbox.** No production intent — archive or delete when exercises are done.
+
+Learning exercise · [Christian Tonny](https://github.com/irachrist1)
